@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @owinookell
-- 👀 I’m interested in web development puthon and js
+- 👀 I’m interested in web development python and js
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on web development 
 - 📫 How to reach me owino652@gmail.com
